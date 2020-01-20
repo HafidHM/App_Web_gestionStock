@@ -1,0 +1,23 @@
+@media(min-width: 768px){
+	/*Navbar positionning foo*/
+	.navbar-wrapper{
+		margin-top: 20px;
+	}
+
+.navbar-wrapper .container{
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.navbar-wrapper .navbar{
+	padding-right: 0;
+	padding-left: 0;
+}
+.navbar-wrapper .navbar {
+	border-radius: 4px;
+}
+.carousel-caption p{
+	margin-bottom: 20px;
+	font-size: 21px;
+	line-height: 1.4;
+}
+}
